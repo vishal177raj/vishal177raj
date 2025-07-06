@@ -1,31 +1,64 @@
-<h1 align="center">👋 Hi, I'm Vishal Kumar</h1> <p align="center"> <b>Welcome to my GitHub profile!</b><br> I'm a Full-Stack Developer passionate about building high-quality applications and constantly learning new technologies.<br> Check out my projects and contributions below! </p> 
+<h1 align="center">👋 Hi, I'm Vishal Kumar</h1>
 
-🚀 About Me
-Name: Vishal Kumar
-Role: Full-Stack Developer
-Focus: Web Development, API Design, Open Source Contributions
+<p align="center">
+  <b>Welcome to my GitHub profile!</b><br>
+  I'm a Full-Stack Developer passionate about building high-quality applications and constantly learning new technologies.<br>
+  Check out my projects and contributions below!
+</p>
 
-I enjoy building both the frontend and backend of applications, solving complex problems, and contributing to open-source communities.<br> My expertise spans multiple web technologies and frameworks, and I'm always eager to take on new challenges.
+---
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"><br> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"><br> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"><br> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"><br> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"><br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </p>
+## 🚀 About Me
 
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishalkumar&show_icons=true&theme=radical" alt="GitHub stats"><br><br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar&theme=radical" alt="GitHub Streak"><br><br> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalkumar&theme=radical" alt="Profile Summary"><br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishalkumar&theme=radical" alt="Most Commit Language"><br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishalkumar&theme=radical" alt="GitHub Stats"> </div>
-📈 Contribution Stats
+I'm **Vishal Kumar**, a passionate and dedicated **Full-Stack Developer** with a strong interest in building scalable, efficient, and user-friendly web applications. I thrive at the intersection of frontend creativity and backend logic.
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar&theme=radical" alt="Streak Stats"><br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishalkumar&theme=radical&utcOffset=8" alt="Productive Time"> </p>
+With hands-on experience in technologies like **Java**, **Node.js**, and modern frontend frameworks, I enjoy solving real-world problems and contributing to open-source communities. I am continuously exploring new tools and frameworks to keep my development skills sharp and up to date.
 
-🌱 Current Projects
-Pinggy.io Developer Tool: Exploring use cases, optimizing UX, and improving web pages.<br>
-Java & Node.js Projects: Developing scalable applications for real-world use cases.<br>
-Open Source Contributions: Actively contributing to open-source communities.<br>
-
-🤝 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><br> <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a><br><br> <a href="mailto:vishal177raj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
-<p align="center"> <i>Thanks for visiting my profile! Let's create something amazing together 🚀</i> </p>
+> 🚀 "I believe in writing clean code, building impactful software, and learning something new every day."
 
 
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
+---
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalkumar&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar&theme=radical" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalkumar&theme=radical" alt="Profile Summary" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishalkumar&theme=radical" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishalkumar&theme=radical" alt="GitHub Stats Card" />
+</div>
+
+## 🌱 Current Projects
+
+- 🔧 **Pinggy.io Developer Tool** – Exploring use cases, optimizing UX, and improving web pages  
+- ☕ **Java & Node.js Projects** – Building scalable backend systems  
+- 🌍 **Open Source** – Actively contributing to community-based projects  
+
+---
+
+## 💌 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id)  
+- 📧 Email: [vishal177raj@gmail.com](mailto:vishal177raj@gmail.com)  
+- 💼 Portfolio: Coming soon!
+
+---
+
+<p align="center"><i>Thanks for visiting my profile! Let's create something amazing together 🚀</i></p>
